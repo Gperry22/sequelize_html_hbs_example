@@ -1,0 +1,1 @@
+# sequelize_html_hbs_example
